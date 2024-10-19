@@ -1,2 +1,5 @@
-# cap
-A fast, modern, open-source proof-of-work CAPTCHA
+<div align="center">
+<h1>cap</h1>
+<p>A modern, lightning-quick PoW captcha </p>
+<b>Coming soon.</b>
+</div>
